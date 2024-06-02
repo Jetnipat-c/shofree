@@ -42,12 +42,12 @@ Follow these steps to set up and run the project:
 ## Database Credentials
 
 ### CMS Service
-- **Server:** `cms_db`
+- **Server:** `cms_service`
 - **Username:** `cms_user`
 - **Password:** `cms_password`
 
 ### Shofree Service
-- **Server:** `shofree_db`
+- **Server:** `shofree_service`
 - **Username:** `shofree_user`
 - **Password:** `shofree_password`
 
