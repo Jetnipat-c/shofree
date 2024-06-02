@@ -50,4 +50,4 @@ You can open [http://localhost:8080](http://localhost:8080) to access the databa
 - **Password:** `shofree_password`
 
 ## ER-Diagram
-
+![alt text](https://github.com/Jetnipat-c/shofree/blob/main/Shofree-ERD.drawio.png)
