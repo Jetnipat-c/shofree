@@ -34,8 +34,8 @@ Follow these steps to set up and run the project:
     npm install
     npm run dev
     ```
-
-You can open [http://localhost:8080](http://localhost:8080) to access the database.
+- You can open [http://localhost:5173](http://localhost:5173) to test.
+- You can open [http://localhost:8080](http://localhost:8080) to access the database.
 
 ## Database Credentials
 
