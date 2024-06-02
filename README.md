@@ -10,7 +10,7 @@ Follow these steps to set up and run the project:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd shofree_test
+    cd shofree
     ```
 3. Start the Docker containers:
     ```bash
