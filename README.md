@@ -20,12 +20,14 @@ Follow these steps to set up and run the project:
     ```bash
     cd cms-service
     cp .env.example .env
+    npm install
     npm run start:dev
     ```
 5. Set up and start the Shofree backend service:
     ```bash
     cd shofree-backend
     cp .env.example .env
+    npm install
     npm run start:dev
     ```
 6. Set up and start the Shofree frontend:
